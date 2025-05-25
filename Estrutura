@@ -1,0 +1,15 @@
+Tecnicopro/
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── .env.example
+│   └── server.js
+├── frontend/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── App.js
+│       └── index.js
+└── README.md
